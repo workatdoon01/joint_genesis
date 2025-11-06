@@ -1,4 +1,2 @@
-Sitemap: https://jointgenesis-us.shop/sitemap.xml
-
 User-agent: *
 Disallow: /cgi-bin
